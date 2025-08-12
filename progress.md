@@ -12,6 +12,6 @@
 - Learned basics of NumPy arrays and vectorized operations
 - Practiced 1D & 2D arrays, dot product, and shape/size
 - Used Git branching to keep main clean
-
+- a mini game
 
 
