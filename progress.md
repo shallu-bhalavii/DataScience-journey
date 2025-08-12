@@ -8,3 +8,9 @@
 - Created examples and practiced in a script
 - Pushed code to GitHub
 
+### Day 3 – Aug 12, 2025
+- Learned basics of NumPy arrays and vectorized operations
+- Practiced 1D & 2D arrays, dot product, and shape/size
+- Used Git branching to keep main clean
+
+
