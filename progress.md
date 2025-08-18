@@ -14,4 +14,8 @@
 - Used Git branching to keep main clean
 - a mini game
 
-
+### Day 4 – Aug 14, 2025
+- Learned basic of pandas and work with DataFrame
+- and solved questions 
+    
+   🧨 I can do it!!!!
