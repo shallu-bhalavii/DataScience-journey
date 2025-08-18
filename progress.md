@@ -19,3 +19,9 @@
 - and solved questions 
     
    🧨 I can do it!!!!
+
+### made a new repo Aug 18,2025
+- for extra topics 
+- also made a new file called '1lambda.py'
+
+    " 🐤Might be useful someday."
