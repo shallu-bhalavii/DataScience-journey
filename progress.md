@@ -25,3 +25,8 @@
 - also made a new file called '1lambda.py'
 
     " 🐤Might be useful someday."
+
+### Day 5 – Aug 19, 2025
+- did functions 
+- complete challenges
+- push it to remote
