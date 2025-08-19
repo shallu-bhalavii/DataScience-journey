@@ -98,3 +98,10 @@ print("Operation on each item using lambda and map()",
    Sorted numerically: ['-2', '-1', '0', '1', '2', '9']
    Filtered positive even numbers: ['1', '9', '0', '-1', '-2']
    Operation on each item using lambda and map() ['11', '12', '19', '10', '9', '8']'''   
+
+
+# 🐤   Time Complexity:
+# The time complexity of the filter function is O(n) where n is the number of elements in the list. The lambda function does not affect the time complexity, as it is a simple check that takes constant time.
+
+# 🐤  Space Complexity:
+# The space complexity of this code is O(n) because it creates a new list that contains only odd numbers from the original list. The original list is not modified, so it remains the same size.
